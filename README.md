@@ -14,7 +14,7 @@ git clone https://github.com/night0721/Night_RPC
 
 2. Create a new application in <a href="https://discord.com/developers/applications">`Discord Devloper Portal`</a> and copy the ID of the application and then paste it in the bottom of <a href = "https://github.com/night0721/RPC_Night/blob/main/index.js">`index.js`</a>.
 3. Upload the photos as assets in the Rich Presence Part
-4. Edit the <a href = "https://github.com/night0721/RPC_Night/blob/main/index.js">`index.js`</a><br><br> as you want
+4. Edit the <a href = "https://github.com/night0721/RPC_Night/blob/main/index.js">`index.js`</a> as you want
 5. After that, run the commands in the command line :
 
 ```cmd
