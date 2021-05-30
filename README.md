@@ -2,7 +2,7 @@
 
 RPC is rich presence fore Discord. You can use it through Discord Desktop, but not for web and mobile version.
 
-Watch the video https://youtube.com/c/Kirito01 and know more!
+Watch the video https://youtu.be/AkgMfo4JgM0 and know more!
 
 # How to use it? <img src = "https://cdn.discordapp.com/emojis/841194046419370024.png" width = "30">
 
