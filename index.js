@@ -5,15 +5,15 @@ const rpc = new Client({
 
 rpc.on("ready", () => {
   rpc.setActivity({
-    details: "🔥Working on cath.exe",
-    state: "Subscribe to me below!",
+    details: "Lilase",
+    state: "Subscribe to my YouTube",
     startTimestamp: new Date(),
     largeImageKey: "night",
     largeImageText: "Night",
     smallImageKey: "kaly",
     smallImageText: "cath.exe",
     buttons: [
-      { label: "💭Website💭", url: "https://cath.gq/" },
+      { label: "💭Website💭", url: "https://night0721.me/" },
       { label: "🌌YouTube🌌", url: "https://youtube.com/c/Kirito01" },
     ],
   });
