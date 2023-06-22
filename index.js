@@ -14,7 +14,7 @@ rpc.on("ready", () => {
     smallImageText: "cath.exe",
     buttons: [
       { label: "💭Website💭", url: "https://night0721.me/" },
-      { label: "🌌YouTube🌌", url: "https://youtube.com/c/Kirito01" },
+      { label: "🌌YouTube🌌", url: "https://www.youtube.com/@night0721" },
     ],
   });
 
