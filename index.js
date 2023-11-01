@@ -17,7 +17,6 @@ rpc.on("ready", () => {
       { label: "🌌YouTube🌌", url: "https://www.youtube.com/@night0721" },
     ],
   });
-
   console.log("RPC is ready now!");
 });
 
